@@ -5,18 +5,6 @@ This project is a simple Flappy Bird-style game developed in C using the raylib 
 
 The game increases in difficulty over time as the pipe speed gradually increases.
 
----
-
-## Features
-- Real-time gameplay using raylib
-- Gravity and jump mechanics
-- Collision detection
-- Score tracking system
-- Increasing difficulty over time
-- Restart functionality
-
----
-
 ## Controls
 
 | Key | Action |
